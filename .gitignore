@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Python cache
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset archives
+*.zip
+
+# Local database files
+*.db

@@ -1,0 +1,15 @@
+{
+    "project": "Predictive Maintenance System",
+    "dataset": "NASA C-MAPSS FD001",
+    "selected_model": "Experimental LSTM",
+    "sequence_length": 50,
+    "hidden_size": 128,
+    "num_layers": 1,
+    "dropout": 0.2,
+    "input_features": 19,
+    "validation_samples": 3090,
+    "MAE": 13.2467,
+    "RMSE": 20.4899,
+    "R2": 0.8522,
+    "NASA_score": 36080.34
+}
