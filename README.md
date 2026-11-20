@@ -34,6 +34,20 @@ The system combines deep learning, anomaly detection, a REST API, a PostgreSQL d
 
 \- \*\*Model Inference:\*\* Trained models are loaded locally for prediction.
 
+## Project Screenshots
+
+### Main Dashboard
+![Main Dashboard](docs/screenshots/main-dashboard.png)
+
+### Sensor Analytics
+![Sensor Analytics](docs/screenshots/sensor-analytics.png)
+
+### Prediction Results
+![Prediction Results](docs/screenshots/prediction-results.png)
+
+### Database History
+![Database History](docs/screenshots/database-history.png)
+
 
 
 \## Technology Stack
