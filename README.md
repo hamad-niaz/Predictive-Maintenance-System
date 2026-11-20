@@ -246,7 +246,7 @@ Predictive-Maintenance-System/
 
 ```bash
 
-git clone https://github.com/YOUR\_USERNAME/Predictive-Maintenance-System.git
+git clone https://github.com/hamad-niaz/Predictive-Maintenance-System.git
 
 cd Predictive-Maintenance-System
 
