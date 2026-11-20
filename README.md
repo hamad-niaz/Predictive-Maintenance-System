@@ -36,18 +36,19 @@ The system combines deep learning, anomaly detection, a REST API, a PostgreSQL d
 
 ## Project Screenshots
 
+### Project Screenshots
+
 ### Main Dashboard
-![Main Dashboard](docs/screenshots/main-dashboard.png)
+![Main Dashboard](docs/main-dashboard.png)
 
 ### Sensor Analytics
-![Sensor Analytics](docs/screenshots/sensor-analytics.png)
+![Sensor Analytics](docs/sensor-analytics.png)
 
 ### Prediction Results
-![Prediction Results](docs/screenshots/prediction-results.png)
+![Prediction Results](docs/prediction-results.png)
 
 ### Database History
-![Database History](docs/screenshots/database-history.png)
-
+![Database History](docs/database-history.png)
 
 
 \## Technology Stack
